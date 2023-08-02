@@ -13,7 +13,7 @@ element in the given array.
 - maxArray(int[] array) - Keeps track of every occurrence of the max number in the given
 array.
 - swapZero(int[] array) - Puts all of the zeros in the given array, at the end of the given
-array.
+array. The method updates the array itself
 
 # CODE - SOLUTION
 you can find the script right here on this repository
