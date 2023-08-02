@@ -1,5 +1,5 @@
 # Arrays-ArrayLists
-This project was for testing my programming skills in java, while studying a java object oriented programming course.
+This project was for implementing Arrays and ArrayLists in java, while studying a java object oriented programming course.
 
 # INSTRUCTIONS
 In this assignment, you will implement a class called ​ ArrayAndArrayList​ . This class includes some interesting methods for working with Arrays and ArrayLists.
